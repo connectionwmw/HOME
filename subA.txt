@@ -13,7 +13,6 @@ vless://8a5002c8-9732-4c2f-9e56-270c575baff7@2.26.96.83:443?type=xhttp&encryptio
 
 
 
-vless://4a0df47a-f4a6-4ce6-a5e2-05e50d915444@2.26.96.83:443?type=xhttp&encryption=none&path=%2F&host=&mode=auto&security=reality&pbk=jLxY6Lj8BAuQgnP2ZEo-RHO9IV9O3meFbVGBuwqJohE&fp=chrome&sni=www.amd.com&sid=ae&spx=%2F#xNL3
 
 
 
